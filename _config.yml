@@ -1,0 +1,14 @@
+layout_spectrum: 0.2924372705165297
+typography_spectrum: 0.8294007419608533
+color:
+  brandStrength: 0.008822753094136715
+  lightness: 0.24522288260050118
+  saturation: 0.11601634789258242
+  rhythmicContrast: 0.7741660652682185
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Planet Watch
